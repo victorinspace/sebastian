@@ -1,2 +1,3 @@
-# sebastian
-A simple bot to help with managing money.
+# sebastianbot
+SebastianBot will help you manage your money. They will simply tell you what to do, and as long as you do not cross them, you will be successful. 
+You will find that they're one hell of a bot...
