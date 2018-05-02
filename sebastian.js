@@ -4,11 +4,15 @@
 // recommended savings rate
 const savingsRate = 0.20;
 
-// obtain user moneys
+// obtaining user moneys
 let givenIncome = document.getElementById("givenIncome");
 
 // using the maths
 let calculateTotal = givenIncome - (givenIncome * savingsRate);
+
+givenIncome.addEventListener('click', function(){
+    console.log("clicked the input box");
+});
 
 // fool-proof logic
 const theMaths = (givenIncome) => {
